@@ -1,2 +1,5 @@
-qwe,poi,2
-hehe,the thing,0
+Start,You open your eye. Your head feel painful. With blurry eye you saw something like a white sheet.,2,Sleep again,Sleep back,Look harder,Look harder1
+Look harder1,You tried to widen your eyes. They must be rebooting because you still cant decide what in front of you.,2,Look harder,Look harder 2,Sleep again,Sleep back
+Look harder 2,You tried to squeeze your eye this time. Focusing on the mysterious thing in front of you. Things start to get clearer.,2,Look harder,Died looking,Sleep agaiin,Sleep back
+Died looking,You squeeze you eye as hard as you can. Your eyes feel crushed under the pressure. Your blood vessel exploded. You died. ,0
+Sleep back,No need to worry things will be ok. Thinking that you close your eye and return to your sleep. You relaxed.,0
